@@ -38,7 +38,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     // topLabel configuration
         self.topLabel.backgroundColor = UIColor.blackColor()
         self.topLabel.textAlignment = NSTextAlignment.Center
-        self.topLabel.text = "Pizza u Liczka"
         self.topLabel.text = "Pizza u Liczka Test2"
         self.topLabel.textColor = UIColor.whiteColor()
         self.topLabel.font = UIFont.systemFontOfSize(34)
